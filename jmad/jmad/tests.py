@@ -45,4 +45,4 @@ class StudentTestCase(LiveServerTestCase):
         #  solo.
 
         self.assertEqual('JMAD', brand_element.text)
-        self.fail('Incomplete test')
+        # self.fail('Incomplete test')
