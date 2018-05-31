@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+#IDE's
+.idea
+
+#Driver files
+geckodriver.log
+
+#Python
+__init__.cpython-36.pyc
+settings.cpython-36.pyc
+tests.cpython-36.pyc
+urls.cpython-36.pyc
