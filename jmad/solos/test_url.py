@@ -13,4 +13,3 @@ class SolosUrlsTestCase(TestCase):
         root = resolve('/')
         self.assertEqual(root.func, index)
 
-
